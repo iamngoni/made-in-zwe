@@ -13,7 +13,7 @@ A curation of awesome tools , apps and projects built by Zimbabwean developers ð
 ## <a name="C">C
 ## <a name="D">D
 
-* [Digital Nomad Jobs](https://github.com/alistairholmes/Digital-Nomad-Jobs) - A remote job aggregator app for android. **By [@allycat](https://twitter.com/allycat)**
+* [Digital Nomad Jobs](https://github.com/alistairholmes/Digital-Nomad-Jobs) - A remote job aggregator app for android. **By [@alistairholmes_](https://twitter.com/alistairholmes_)**
 
 ## <a name="E">E
 
@@ -34,6 +34,7 @@ A curation of awesome tools , apps and projects built by Zimbabwean developers ð
 ## <a name="O">O
 ## <a name="P">P
 
+* [Paynow Flutter SDK](https://github.com/ignertic/paynow) - Paynow SDK for Flutter. **By [@iamsupercode](https://twitter.com/iamsupercode)**
 * [Places Zimbabwe](https://github.com/michaeldera/places-zimbabwe) - A duct tape api that returns the list of suburbs of a city in Zimbabwe. **By [@michaeldera](https://twitter.com/michaeldera)**
 
 ## <a name="Q">Q
