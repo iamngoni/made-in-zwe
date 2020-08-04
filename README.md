@@ -23,6 +23,9 @@ A curation of awesome tools, apps and projects built by Zimbabwean developers ðŸ
 ## <a name="G">G
 ## <a name="H">H
 ## <a name="I">I
+
+* [ID Codes for Zim](https://github.com/Umlamulankunzi/Zim_ID_Codes) - Python-Desktop App providing Zimbabwe National ID codes for all districts, provinces and towns. **By [@umlamulankunzi](https://www.instagram.com/umlamulankunzi)**
+  
 ## <a name="J">J
 ## <a name="K">K
 ## <a name="L">L
