@@ -11,6 +11,9 @@ A curation of awesome tools, apps and projects built by Zimbabwean developers ðŸ
 
 ## <a name="B">B
 ## <a name="C">C
+  
+  * [COVID-19-DataCenter](https://github.com/Surveyor-Jr/COVID-19-DataCenter) - A basic platform to review current COVID-19 Statistical situation in Zimbabwe. Based on ArcGIS Online Dashboards to display data and information to the citizens to keep them informed. **By [@surveyor_jr](https://twitter.com/surveyor_jr)**
+  
 ## <a name="D">D
 
 * [Digital Nomad Jobs](https://github.com/alistairholmes/Digital-Nomad-Jobs) - A remote job aggregator app for android. **By [@alistairholmes_](https://twitter.com/alistairholmes_)**
