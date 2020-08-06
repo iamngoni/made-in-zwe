@@ -28,9 +28,13 @@ A curation of awesome tools, apps and projects built by Zimbabwean developers ðŸ
 ## <a name="I">I
 
 * [ID Codes for Zim](https://github.com/Umlamulankunzi/Zim_ID_Codes) - Python-Desktop App providing Zimbabwe National ID codes for all districts, provinces and towns. **By [@umlamulankunzi](https://www.instagram.com/umlamulankunzi)**
-  
+* [Image Accessibility Extension](https://github.com/michaeldera/image-accessibility-extension) - A Google Chrome and Microsoft Edge extension to add alt attributes to images on webpages without them. **By [@michaeldera](https://twitter.com/michaeldera)**
+
 ## <a name="J">J
 ## <a name="K">K
+
+* [Kwikar CLI](https://github.com/bzmp125/kwikar-cli) - A CLi to help developers get started quicker with ready-to-deploy and configurable services. **By [@](https://twitter.com/)**
+
 ## <a name="L">L
 
 * [localregex](https://pub.dev/packages/localregex) - Simple local regex for use by Zim Flutter developers. **By [@ngmangudya](https://twitter.com/ngmangudya)**
@@ -41,6 +45,7 @@ A curation of awesome tools, apps and projects built by Zimbabwean developers ðŸ
 ## <a name="P">P
 
 * [Paynow Flutter SDK](https://github.com/ignertic/paynow) - Paynow SDK for Flutter. **By [@iamsupercode](https://twitter.com/iamsupercode)**
+* [Paynow Ecocash Payments Service](https://github.com/Berzel/paynow-ecocash-payments-service) - REST API thats allows users to implement ecocash express checkouts without worrying about the code. **By [@](https://twitter.com/)**
 * [Places Zimbabwe](https://github.com/michaeldera/places-zimbabwe) - A duct tape api that returns the list of suburbs of a city in Zimbabwe. **By [@michaeldera](https://twitter.com/michaeldera)**
 
 ## <a name="Q">Q
@@ -56,5 +61,7 @@ A curation of awesome tools, apps and projects built by Zimbabwean developers ðŸ
 ## <a name="X">X
 ## <a name="Y">Y
 ## <a name="Z">Z
+
+* [Zim News API JS SDK](https://github.com/bzmp125/zimnews-api-js-sdk) - Javascript SDK for the ZimNews API. **By [@](https://twitter.com/)**
 
 
