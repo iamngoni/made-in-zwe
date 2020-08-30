@@ -9,6 +9,7 @@ A curation of awesome tools, apps and projects built by Zimbabwean developers ðŸ
 
 * [Flutter Zimbabwe](https://github.com/flutterdevzim)
 * [Python Zimbabwe](https://github.com/PyZim)
+* [ForLoopZimbabwe](https://github.com/forloopzimbabwe)
 
 # <a name="Projects">Projects
 <p align="left">
@@ -17,9 +18,13 @@ A curation of awesome tools, apps and projects built by Zimbabwean developers ðŸ
 
 ## <a name="A">A
 
-* [assignme](https://github.com/kudapara/assignme) - Are you also tired of missing assignment deadlines, assignme could be the tool for you. **By [@kudapara](https://twitter.com/KUDAPARA)**
+* [Artable](https://github.com/TheDoer/Artable) - iOS app for artisans to showcase and sell their awesome stuff. **By [TheDoer_](https://twitter.com/TheDoer_)**
+* [Assignme](https://github.com/kudapara/assignme) - Are you also tired of missing assignment deadlines, assignme could be the tool for you. **By [@kudapara](https://twitter.com/KUDAPARA)**
 
 ## <a name="B">B
+
+* [Bank Customer Classification System](https://github.com/maffsojah/capstone_project) -  https://twitter.com/TheDoer_System helps banks make use of customer data to enhance its marketing strategies through selling other services outside normal-banking to its customers. **By [@maffsojah](https://maffsojah.co.zw)**
+
 ## <a name="C">C
   
   * [COVID-19-DataCenter](https://github.com/Surveyor-Jr/COVID-19-DataCenter) - A basic platform to review current COVID-19 Statistical situation in Zimbabwe. Based on ArcGIS Online Dashboards to display data and information to the citizens to keep them informed. **By [@surveyor_jr](https://twitter.com/surveyor_jr)**
@@ -39,6 +44,7 @@ A curation of awesome tools, apps and projects built by Zimbabwean developers ðŸ
 
 * [ID Codes for Zim](https://github.com/Umlamulankunzi/Zim_ID_Codes) - Python-Desktop App providing Zimbabwe National ID codes for all districts, provinces and towns. **By [@umlamulankunzi](https://www.instagram.com/umlamulankunzi)**
 * [Image Accessibility Extension](https://github.com/michaeldera/image-accessibility-extension) - A Google Chrome and Microsoft Edge extension to add alt attributes to images on webpages without them. **By [@michaeldera](https://twitter.com/michaeldera)**
+* [Image Recognition Function](https://github.com/michaeldera/image-recognition-function) - A serverless function using Azure Cognitive Services to expose a REST endpoint to identify the what is in an image and return it as a JSON payload. **By [@michaeldera](https://twitter.com/michaeldera)**
 
 ## <a name="J">J
 ## <a name="K">K
@@ -65,6 +71,7 @@ A curation of awesome tools, apps and projects built by Zimbabwean developers ðŸ
 ## <a name="S">S
 
 * [Simple Regex](https://github.com/michaeldera/simple-regex-ts) - A simple package with common regex pattens for Zimbabwe. **By [@michaeldera](https://twitter.com/michaeldera)**
+* [StekBet](https://github.com/wilbert-mhlanga/StekBet) - An Intelligent Android Betting System, that enables people to bet on various and different fixtures available on each day. **By []()**
 
 ## <a name="T">T
 ## <a name="U">U
@@ -75,5 +82,8 @@ A curation of awesome tools, apps and projects built by Zimbabwean developers ðŸ
 ## <a name="Z">Z
 
 * [Zim News API JS SDK](https://github.com/bzmp125/zimnews-api-js-sdk) - Javascript SDK for the ZimNews API. **By [@africancoder](https://twitter.com/africancoder)**
+* [Zisky Fluter USSD Automation](https://github.com/zisky-ussd/zisky-flutter-ussd-automation) - USSD automation library for Flutter. **By []()**
+* [Zisky Android USSD Automation](https://github.com/zisky-ussd/zisky-android-ussd-automation) - USSD automation library for Android. **By []()**
+
 
 
