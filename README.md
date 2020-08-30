@@ -71,7 +71,7 @@ A curation of awesome tools, apps and projects built by Zimbabwean developers ðŸ
 ## <a name="S">S
 
 * [Simple Regex](https://github.com/michaeldera/simple-regex-ts) - A simple package with common regex pattens for Zimbabwe. **By [@michaeldera](https://twitter.com/michaeldera)**
-* [StekBet](https://github.com/wilbert-mhlanga/StekBet) - An Intelligent Android Betting System, that enables people to bet on various and different fixtures available on each day. **By []()**
+* [StekBet](https://github.com/wilbert-mhlanga/StekBet) - An Intelligent Android Betting System, that enables people to bet on various and different fixtures available on each day. **By [@wilbertmhlanga](https://github.com/wilbert-mhlanga)**
 
 ## <a name="T">T
 ## <a name="U">U
