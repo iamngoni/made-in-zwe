@@ -18,12 +18,12 @@ A curation of awesome tools, apps and projects built by Zimbabwean developers ðŸ
 
 ## <a name="A">A
 
-* [Artable](https://github.com/TheDoer/Artable) - iOS app for artisans to showcase and sell their awesome stuff. **By [TheDoer_](https://twitter.com/TheDoer_)**
+* [Artable](https://github.com/TheDoer/Artable) - iOS app for artisans to showcase and sell their awesome stuff. **By [@TheDoer_](https://twitter.com/TheDoer_)**
 * [Assignme](https://github.com/kudapara/assignme) - Are you also tired of missing assignment deadlines, assignme could be the tool for you. **By [@kudapara](https://twitter.com/KUDAPARA)**
 
 ## <a name="B">B
 
-* [Bank Customer Classification System](https://github.com/maffsojah/capstone_project) -  https://twitter.com/TheDoer_System helps banks make use of customer data to enhance its marketing strategies through selling other services outside normal-banking to its customers. **By [@maffsojah](https://maffsojah.co.zw)**
+* [Bank Customer Classification System](https://github.com/maffsojah/capstone_project) - System helps banks make use of customer data to enhance its marketing strategies through selling other services outside normal-banking to its customers. **By [@maffsojah](https://maffsojah.co.zw)**
 
 ## <a name="C">C
   
