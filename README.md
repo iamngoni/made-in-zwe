@@ -20,7 +20,7 @@ A curation of awesome tools, apps and projects built by Zimbabwean developers ðŸ
 
 ## <a name="A">A
 
-- [Artable](https://github.com/TheDoer/Artable) - iOS app for artisans to showcase and sell their awesome stuff. **By [@TheDoer*](https://twitter.com/TheDoer*)**
+- [Artable](https://github.com/TheDoer/Artable) - iOS app for artisans to showcase and sell their awesome stuff. **By [@TheDoer](https://twitter.com/TheDoer)**
 - [Assignme](https://github.com/kudapara/assignme) - Are you also tired of missing assignment deadlines, assignme could be the tool for you. **By [@kudapara](https://twitter.com/KUDAPARA)**
 
 ## <a name="B">B
@@ -34,7 +34,7 @@ A curation of awesome tools, apps and projects built by Zimbabwean developers ðŸ
 
 ## <a name="D">D
 
-- [Digital Nomad Jobs](https://github.com/alistairholmes/Digital-Nomad-Jobs) - A remote job aggregator app for android. **By [@alistairholmes*](https://twitter.com/alistairholmes*)**
+- [Digital Nomad Jobs](https://github.com/alistairholmes/Digital-Nomad-Jobs) - A remote job aggregator app for android. **By [@alistairholmes](https://twitter.com/alistairholmes)**
 
 ## <a name="E">E
 
