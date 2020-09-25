@@ -34,7 +34,7 @@ A curation of awesome tools, apps and projects built by Zimbabwean developers ðŸ
 
 ## <a name="D">D
 
-- [Digital Nomad Jobs](https://github.com/alistairholmes/Digital-Nomad-Jobs) - A remote job aggregator app for android. **By [@alistairholmes*](https://twitter.com/alistairholmes*)**
+- [Digital Nomad Jobs](https://github.com/alistairholmes/Digital-Nomad-Jobs) - A remote job aggregator app for android. **By [@alistairholmes](https://twitter.com/alistairholmes)**
 
 ## <a name="E">E
 
