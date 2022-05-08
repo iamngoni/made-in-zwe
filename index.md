@@ -3,14 +3,15 @@
 A curation of awesome tools, apps and projects built by Zimbabwean developers 🇿🇼
 
 <p align="left">
-  <a href="#Organizations">Developer Organizations</a> | <a href="#Projects">Developer Projects</a>
+  <a href="#Communities">Developer Communities</a> | <a href="#Projects">Developer Projects</a>
 </p>
 
-# <a name="Organizations">Organizations
+# <a name="Communities">Communities
 
 - [Flutter Zimbabwe](https://github.com/flutterdevzim)
 - [Python Zimbabwe](https://github.com/PyZim)
 - [ForLoopZimbabwe](https://github.com/forloopzimbabwe)
+- [Zim Developers](https://t.me/+svc-bi8Ff0BkNjA8)
 
 # <a name="Projects">Projects
 
