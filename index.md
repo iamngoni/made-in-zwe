@@ -26,6 +26,7 @@ A curation of awesome tools, apps and projects built by Zimbabwean developers ðŸ
 ## <a name="B">B
 
 - [Bank Customer Classification System](https://github.com/maffsojah/capstone_project) - System helps banks make use of customer data to enhance its marketing strategies through selling other services outside normal-banking to its customers. **By [@maffsojah](https://maffsojah.co.zw)**
+- [Bulksmszw](https://github.com/DonnC/bulksmszw) - A flutter or dart plugin for developers to use the bulksmsweb api services. **By [@donnc](https://twitter.com/donix_22)**
 
 ## <a name="C">C
 
@@ -46,6 +47,8 @@ A curation of awesome tools, apps and projects built by Zimbabwean developers ðŸ
 
 ## <a name="H">H
 
+- [Hot-Recharge-ZW](https://github.com/DonnC/Hot-Recharge-ZW) - Perform hot-recharge services with hot-recharge python library programmatically. **By [@donnc](https://twitter.com/donix_22)**
+
 ## <a name="I">I
 
 - [ID Codes for Zim](https://github.com/Umlamulankunzi/Zim_ID_Codes) - Python-Desktop App providing Zimbabwe National ID codes for all districts, provinces and towns. **By [@umlamulankunzi](https://www.instagram.com/umlamulankunzi)**
@@ -63,10 +66,12 @@ A curation of awesome tools, apps and projects built by Zimbabwean developers ðŸ
 ## <a name="L">L
 
 - [localregex](https://pub.dev/packages/localregex) - Simple local regex for use by Zim Flutter developers. **By [@ngmangudya](https://twitter.com/ngmangudya)**
+- [logbook](https://github.com/DonnC/log_book) - An internship log book desktop app. **By [@donnc](https://twitter.com/donix_22)**
 
 ## <a name="M">M
 
 - [Messaging Service](https://github.com/bzmp125/messaging-service) - A reusable messaging service for a Microservices Architecture. **By [@africancoder](https://twitter.com/africancoder)**
+- [Mini Campus](https://github.com/DonnC-Lab/mini_campus) - MiniCampus, MC - thrives to be the go to student app for both freshers and existing students on campus. It comes equipped with the tools and services to make life easy for a student.. **By [@donnc](https://twitter.com/donix_22)**
 
 ## <a name="N">N
 
@@ -97,7 +102,6 @@ A curation of awesome tools, apps and projects built by Zimbabwean developers ðŸ
 - [Thanos Tweets](https://github.com/KudzieChase/thanos-tweets) - A script to take control of your past tweets and give balance back to your Twitter timeline. **By [@KudzieChase](https://twitter.com/KudzieChase)**
 - [Thirty Seconds](https://github.com/KudzieChase/thirty-seconds) - A fun game to survive the self isolation and quarantine. **By [@KudzieChase](https://twitter.com/KudzieChase)**
 - [TorchMobile](https://github.com/rapha18th/TorchMobile) - Object detection using Facebook's Pytorch(mobile) and Android. **By [@rapha18th](https://github.com/rapha18th)**
-- [Typeboost.css](https://github.com/englishextra/typeboost.css) - Typeboost.css is a set of CSS rules to ensure readable, scalable and responsive typography. REMs are used for font sizes, paddings, and margins. It's like typography normalizer. No dependencies. Wrap your HTML content with class .col and you are done. **By [@englishextra](https://github.com/englishextra)**
 
 ## <a name="U">U
 
